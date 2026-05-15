@@ -6,63 +6,63 @@
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
+    "name": "Arthur Almeida",
+    "headline": "Engenharia Back-end e Arquitetura de Software",
     "photo": "assets/images/profile.jpg",
     "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "summary": "Tenho conhecimentos em desenvolvimento back-end, com foco na construção e modelagem de serviços, APIs e bancos de dados. Contribuí em projetos que exigiram organização de código e boas práticas, e atualmente direciono meu mapa de carreira para arquitetura de software, sistemas escaláveis e evolução contínua.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "arthursa.prof@example.com",
+      "url": "mailto:arthursa.prof@example.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/arthur-santos-almeida/",
+      "url": "https://www.linkedin.com/in/arthur-santos-almeida/"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/ArthurSantosAlmeida",
+      "url": "https://github.com/ArthurSantosAlmeida"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Desenvolvedora Back-end Junior",
+      "description": "Consolidar fundamentos de desenvolvimento back-end, construção de APIs, integração com bancos de dados e boas práticas de versionamento e colaboração em equipe.",
       "softSkills": [
         "Comunicacao clara para pedir ajuda e registrar aprendizados.",
         "Organizacao para estudar, praticar e acompanhar tarefas.",
         "Curiosidade para investigar problemas e testar solucoes."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
+        "Lógica de programação",
+        "HTTP/REST",
+        "SQL básico",
         "Git e GitHub",
-        "Acessibilidade"
+        "APIs CRUD"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Desenvolvedora Back-end Pleno",
+      "description": "Evoluir na construção de sistemas robustos, aplicando boas práticas de código, modelagem de dados e integração entre serviços, com maior autonomia técnica.",
       "softSkills": [
         "Responsabilidade sobre entregas e prazos combinados.",
         "Colaboracao em revisoes de codigo e planejamento.",
         "Capacidade de explicar escolhas tecnicas para diferentes publicos."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
+        "Clean Code",
+        "SOLID",
         "APIs REST",
         "Testes automatizados",
         "Banco de dados"
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Desenvolvedor Back-end Sênior",
+      "description": "Projetar soluções escaláveis e resilientes, tomando decisões arquiteturais no nível de sistema e apoiando tecnicamente outros desenvolvedores.",
       "softSkills": [
         "Mentoria com escuta ativa e feedback construtivo.",
         "Priorizacao entre impacto, custo, risco e aprendizado.",
@@ -70,16 +70,86 @@
       ],
       "roadmap": [
         "Arquitetura de software",
+        "System Design",
         "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Microsserviços",
+        "Escalabilidade"
+      ]
+    },
+    {
+      "title": "Tech Lead (Back-end)",
+      "description": "Liderar tecnicamente o time, definindo padrões, tomando decisões arquiteturais e garantindo a qualidade e sustentabilidade das soluções.",
+      "softSkills": [
+        "Liderança técnica e influência no time.",
+        "Comunicação clara com devs e stakeholders.",
+        "Gestão de conflitos e tomada de decisão sob pressão."
+      ],
+      "roadmap": [
+        "Arquitetura de software",
+        "Code Review avançado",
+        "Design de sistemas complexos",
+        "Boas práticas de engenharia",
+        "Documentação técnica"
+      ]
+    },
+    {
+      "title": "Software Architect",
+      "description": "Definir a arquitetura de sistemas em alto nível, alinhando tecnologia com objetivos de negócio, garantindo escalabilidade, desempenho e sustentabilidade.",
+      "softSkills": [
+        "Comunicação estratégica com áreas técnicas e de negócio.",
+        "Pensamento analítico e visão de longo prazo.",
+        "Capacidade de negociação e tomada de decisão de alto impacto."
+      ],
+      "roadmap": [
+        "Arquitetura distribuída",
+        "Cloud",
+        "Microservices e Event-driven",
+        "Segurança de sistemas",
+        "Trade-offs arquiteturais"
       ]
     }
   ],
   "skillGroups": [
     {
+      "title": "Backend e dados",
+      "skills": [
+        {
+          "name": "Java",
+          "level": 90
+        },
+        {
+          "name": "Python",
+          "level": 80
+        },
+        {
+          "name": "SQL",
+          "level": 90
+        },
+        {
+          "name": "Clean Architecture e SOLID",
+          "level": 90
+        },
+        {
+          "name": "Padrões de Projetos GOF",
+          "level": 80
+        },
+        {
+          "name": "Node.js e APIs",
+          "level": 70
+        },
+        {
+          "name": "VBA",
+          "level": 80
+        }
+      ]
+    },
+    {
       "title": "Frontend",
       "skills": [
+        {
+          "name": "Figma",
+          "level": 90
+        },
         {
           "name": "HTML, CSS e JavaScript",
           "level": 85
@@ -89,26 +159,15 @@
           "level": 70
         }
       ]
-    },
-    {
-      "title": "Backend e dados",
-      "skills": [
-        {
-          "name": "Node.js e APIs",
-          "level": 65
-        },
-        {
-          "name": "SQL",
-          "level": 60
-        }
-      ]
     }
   ],
-  "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+  "Habilidades comportamentais": [
+    "Curiosidade",
+    "Proatividade",
+    "Adaptabilidade",
+    "Trabalho em grupo",
+    "Empatia",
+    "Criatividade"
   ],
   "languages": [
     {
@@ -118,10 +177,6 @@
     {
       "name": "Ingles",
       "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
     }
   ]
 }
