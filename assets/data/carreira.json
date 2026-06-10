@@ -1,15 +1,15 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Arthur Almeida | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Arthur Almeida, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Arthur Almeida",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
     "name": "Arthur Almeida",
     "headline": "Engenharia Back-end e Arquitetura de Software",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
+    "photoAlt": "Foto profissional de Arthur Almeida",
     "summary": "Tenho conhecimentos em desenvolvimento back-end, com foco na construção e modelagem de serviços, APIs e bancos de dados. Contribuí em projetos que exigiram organização de código e boas práticas, e atualmente direciono meu mapa de carreira para arquitetura de software, sistemas escaláveis e evolução contínua.",
     "cvUrl": "#"
   },
@@ -29,7 +29,7 @@
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Back-end Junior",
+      "title": "Desenvolvedor Back-end Junior",
       "description": "Consolidar fundamentos de desenvolvimento back-end, construção de APIs, integração com bancos de dados e boas práticas de versionamento e colaboração em equipe.",
       "softSkills": [
         "Comunicacao clara para pedir ajuda e registrar aprendizados.",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "title": "Desenvolvedora Back-end Pleno",
+      "title": "Desenvolvedor Back-end Pleno",
       "description": "Evoluir na construção de sistemas robustos, aplicando boas práticas de código, modelagem de dados e integração entre serviços, com maior autonomia técnica.",
       "softSkills": [
         "Responsabilidade sobre entregas e prazos combinados.",
