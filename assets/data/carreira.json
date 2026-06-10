@@ -3,7 +3,7 @@
     "title": "Arthur Almeida | Mapa de Carreira em Tecnologia",
     "description": "Mapa de carreira de Arthur Almeida, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
     "author": "Arthur Almeida",
-    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+    "canonicalUrl": "https://arthursantosalmeida.github.io/mapa-de-carreira/"
   },
   "profile": {
     "name": "Arthur Almeida",
@@ -11,7 +11,7 @@
     "photo": "assets/images/profile.jpg",
     "photoAlt": "Foto profissional de Arthur Almeida",
     "summary": "Tenho conhecimentos em desenvolvimento back-end, com foco na construção e modelagem de serviços, APIs e bancos de dados. Contribuí em projetos que exigiram organização de código e boas práticas, e atualmente direciono meu mapa de carreira para arquitetura de software, sistemas escaláveis e evolução contínua.",
-    "cvUrl": "#"
+    "cvUrl": "assets/data/Curriculo - Arthur Almeida.pdf"
   },
   "contacts": [
     {
