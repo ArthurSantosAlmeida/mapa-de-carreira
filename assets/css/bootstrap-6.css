@@ -11710,11 +11710,11 @@ body {
 }
 
 a {
-  color: #80425F;
+  color: #3d6a8a;
 }
 
 a:hover {
-  color: #4e283a;
+  color: #102e44;
 }
 
 a.no-text-decoration {
@@ -11722,11 +11722,11 @@ a.no-text-decoration {
 }
 
 .theme-bg-primary {
-  background-color: #80425F;
+  background-color: #102e44;
 }
 
 .theme-bg-primary-darken {
-  background-color: #3d1f2d;
+  background-color: #0a1e2d;
 }
 
 a.theme-btn-on-bg, .theme-btn-on-bg {
@@ -11746,7 +11746,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .theme-progress-bar-dark {
-  background-color: #80425F;
+  background-color: #fab84c;
 }
 
 .resume-wrapper {
