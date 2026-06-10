@@ -38,7 +38,7 @@
   --bs-gray-900: #212529;
   --bs-primary: #102e44;
   --bs-secondary: #58677c;
-  --bs-primary-rgb: 128, 66, 95;
+  --bs-primary-rgb: 16, 46, 68;
   --bs-secondary-rgb: 88.2236024845, 102.7080745342, 123.7763975155;
   --bs-primary-text-emphasis: #052c65;
   --bs-secondary-text-emphasis: #2b2f32;
@@ -3096,12 +3096,12 @@ textarea.form-control-lg {
   --bs-btn-bg: #102e44;
   --bs-btn-border-color: #102e44;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #0d2638;
-  --bs-btn-hover-border-color: #0b2233;
+  --bs-btn-hover-bg: #6d3851;
+  --bs-btn-hover-border-color: #66354c;
   --bs-btn-focus-shadow-rgb: 147, 94, 119;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #0b2233;
-  --bs-btn-active-border-color: #091e2d;
+  --bs-btn-active-bg: #66354c;
+  --bs-btn-active-border-color: #603247;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
   --bs-btn-disabled-bg: #102e44;
@@ -11829,7 +11829,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   display: inline-block;
   width: 3px;
   height: 100%;
-  background: #3d6a8a;
+  background: #d9b5c6;
   left: 6px;
   top: 4px;
   position: absolute;
@@ -11843,7 +11843,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   top: 3px;
   width: 15px;
   height: 15px;
-  border: 4px solid #102e44;
+  border: 4px solid #a25378;
   background: white;
   border-radius: 50%;
 }
@@ -11920,7 +11920,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .footer .fa-heart {
-  color: #fab84c;
+  color: #fb866a;
 }
 
 @media (max-width: 767.98px) {
